@@ -6,9 +6,9 @@ import Dashboard from "./components/Dashboard";
 
 function App() {
   return (
-    <div className="flex">
+    <div className="flex   ">
       <Mainpage />
-      <Dashboard className="flex-1" />
+      <Dashboard />
     </div>
   );
 }
