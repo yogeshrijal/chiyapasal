@@ -17,9 +17,7 @@ export default function Cabin(prompt) {
           </div>
         </button>
       </div>
-      <header className="font-bold font-mono italic text-4xl pb-3">
-        {prompt.heading}
-      </header>
+      <header className=" font-mono text-4xl pb-3">{prompt.heading}</header>
     </section>
   );
 }

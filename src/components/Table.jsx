@@ -13,9 +13,7 @@ export default function Table(prompt) {
           </div>
         </button>
       </div>
-      <header className="font-bold font-mono italic text-4xl pb-3">
-        {prompt.heading}
-      </header>
+      <header>{prompt.heading}</header>
     </section>
   );
 }

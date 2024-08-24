@@ -15,9 +15,9 @@ export default function Mainpage() {
               text: "Dashboard",
             },
             {
-              src: "/image/category.png",
-              alt: "Product Icon",
-              text: "Product",
+              src: "/image/gift.png",
+              alt: "Offers Icon",
+              text: "Offers",
             },
             { src: "/image/chair.png", alt: "Table Icon", text: "Cabins" },
             { src: "/image/checkout.png", alt: "Orders Icon", text: "Orders" },

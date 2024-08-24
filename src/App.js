@@ -12,7 +12,7 @@ function App() {
       <Mainpage />
       <div>
         <Nav nav="Cabins" />
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-6 ">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-6 text-center  text-pink-400  ">
           <Cabin heading="Cabin 1" />
           <Cabin heading="Cabin 2" />
           <Cabin heading="Cabin 3" />
